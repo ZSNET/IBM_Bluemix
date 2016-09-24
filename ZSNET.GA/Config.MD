@@ -4,38 +4,4 @@ KEY # ZSNETGA.PEM
 
 IP address
 1. 公共 IP:  169.50.98.25 | 专用 IP：192.168.0.28
-2. 公共 IP:  {
-    // The tab key will cycle through the settings when first created
-    // Visit http://wbond.net/sublime_packages/sftp/settings for help
-    
-    // sftp, ftp or ftps
-    "type": "sftp",
-
-    "sync_down_on_open": true,
-    "sync_same_age": true,
-    
-    "host": "169.50.98.25",
-    "user": "root",
-    "password": "qwaszx123*",
-    "port": "22",
-    
-    "remote_path": "/",
-    //"file_permissions": "664",
-    //"dir_permissions": "775",
-    
-    //"extra_list_connections": 0,
-
-    "connect_timeout": 30,
-    //"keepalive": 120,
-    //"ftp_passive_mode": true,
-    //"ftp_obey_passive_host": false,
-    //"ssh_key_file": "~/.ssh/id_rsa",
-    //"sftp_flags": ["-F", "/path/to/ssh_config"],
-    
-    //"preserve_modification_times": false,
-    //"remote_time_offset_in_hours": 0,
-    //"remote_encoding": "utf-8",
-    //"remote_locale": "C",
-    //"allow_config_upload": false,
-}
- | 专用 IP：192.168.0.27
+2. 公共 IP:  169.50.98.243 | 专用 IP：192.168.0.27
